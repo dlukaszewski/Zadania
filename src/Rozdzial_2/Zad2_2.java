@@ -7,9 +7,9 @@ import java.io.InputStreamReader;
 public class Zad2_2 {
     public static void main(String[] args) {
 
-        double a,b,c,d,e,f;
+        double a,b,c;
 
-        BufferedReader reader1234 = new BufferedReader(new InputStreamReader(System.in));
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
     }
 }
