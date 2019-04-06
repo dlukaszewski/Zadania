@@ -9,7 +9,7 @@ public class Zad2_2 {
 
         double a,b,c;
 
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        BufferedReader reader1234 = new BufferedReader(new InputStreamReader(System.in));
 
     }
 }
