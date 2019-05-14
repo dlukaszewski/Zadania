@@ -11,7 +11,7 @@ public class Zad3_21 {
         while (wiersze <=n){
             kolumny = 1;
             while (kolumny<=n){
-                
+
                 System.out.print(wiersze * kolumny + "\t");
                 kolumny++;
             }
