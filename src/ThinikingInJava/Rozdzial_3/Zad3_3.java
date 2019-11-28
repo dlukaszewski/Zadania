@@ -1,7 +1,7 @@
 package ThinikingInJava.Rozdzial_3;
 
 
-public class Zad1_1 {
+public class Zad3_3 {
         static class Tank{
             float f;
         }
